@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fajar Rivaldi Chan</h1>
 <h3 align="center">Web Developer and UI/UX Desinger.</h3>
-<br>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fajar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajar-rivaldi-chan/)](https://www.linkedin.com/in/fajar-rivaldi-chan/)
 [![Gmail Badge](https://img.shields.io/badge/-fajarrivaldi2015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fajarrivaldi2015@gmail.com)](mailto:fajarrivaldi2015@gmail.com)
@@ -15,7 +15,7 @@
 </div>
 
 
-<br><br>
+<br>
 
 ## 📊 My Github Stats
 
