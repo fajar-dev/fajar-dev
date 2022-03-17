@@ -6,7 +6,7 @@
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fajar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajar-rivaldi-chan/)](https://www.linkedin.com/in/fajar-rivaldi-chan/)
-[![Gmail Badge](https://img.shields.io/badge/-mail.saifulriza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fajarrivaldi2015@gmail.com)](mailto:fajarrivaldi2015@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fajarrivaldi2015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fajarrivaldi2015@gmail.com)](mailto:fajarrivaldi2015@gmail.com)
 ![Years Badge](https://badges.pufler.dev/years/fajar-dev)
 ![Repos Badge](https://badges.pufler.dev/repos/fajar-dev)
 
