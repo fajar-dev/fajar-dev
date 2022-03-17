@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 <a href="#"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fajar Rivaldi Chan</h1>
@@ -12,8 +12,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=fajar-dev">
 <img src="https://img.shields.io/github/followers/fajar-dev?label=Followers&style=social" alt="GitHub Badge">
+</div>
 
-</center>
 
 <br><br>
 
