@@ -20,8 +20,10 @@
 ## 📊 My Github Stats
 
   <br/>
-   <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fajar-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajar-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/fajr-dev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fajar-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fajar-dev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
   <br/>
 
 
