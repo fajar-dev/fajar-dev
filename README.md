@@ -15,7 +15,7 @@
 
 <br>
 
-<h2 align="center">Technology Stack</h2>
+<h2>Technology Stack</h2>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,15 +40,15 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-<a href="https://github.com/fajr-dev">
+<p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fajar-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fajar-dev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+</p>
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=fajar-dev&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"></p>
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=fajar-dev&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph">
+</p>
 
-  <br/>
 
 
 
