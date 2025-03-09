@@ -7,9 +7,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Fajar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajar-rivaldi-chan/)](https://www.linkedin.com/in/fajar-rivaldi-chan/)
 [![Gmail Badge](https://img.shields.io/badge/-fajarchan@gariskode.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fajarchan@gariskode.com)](mailto:fajarchan@gariskode.com)
 
-
-<img src="https://komarev.com/ghpvc/?username=fajar-dev">
-<img src="https://img.shields.io/github/followers/fajar-dev?label=Followers&style=social" alt="GitHub Badge">
 </div>
 
 ## 📊 My Github Stats
