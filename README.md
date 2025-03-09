@@ -6,7 +6,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fajar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajar-rivaldi-chan/)](https://www.linkedin.com/in/fajar-rivaldi-chan/)
-[![Gmail Badge](https://img.shields.io/badge/-fajarrivaldi2015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fajarrivaldi2015@gmail.com)](mailto:fajarrivaldi2015@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fajarchan@gariskode.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fajarchan@gariskode.com)](mailto:fajarchan@gariskode.com)
 
 
 <img src="https://komarev.com/ghpvc/?username=fajar-dev">
