@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1 align="center">Hi!, I'm Fajar Rivaldi Chan</h1>
-<h3 align="center">Backend and Web Development enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fajar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajar-rivaldi-chan/)](https://www.linkedin.com/in/fajar-rivaldi-chan/)
